@@ -1,0 +1,201 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212360393@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB038CB8B4593C0CC1FFF',
+    participant: undefined
+  },
+  messageTimestamp: 1725635319,
+  pushName: 'Tics - Cámara de Comercio de Cartago',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: 'hola',
+  name: 'Tics - Cámara de Comercio de Cartago',
+  from: '573212360393',
+  host: '573133917584'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212360393@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0593313BD7C60368012',
+    participant: undefined
+  },
+  messageTimestamp: 1725635323,
+  pushName: 'Tics - Cámara de Comercio de Cartago',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: 'hola',
+  name: 'Tics - Cámara de Comercio de Cartago',
+  from: '573212360393',
+  host: '573133917584'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a139b4ca-c4bf-4f5d-951f-e087e0dcad1b',
+  keyword: 'key_a6142a24-6102-4a83-a5ba-cdf102dd90e3',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e61acde3b3982a901b08cec158b9c7be'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212360393@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A8E5C96D26815FE4C5',
+    participant: undefined
+  },
+  messageTimestamp: 1725635334,
+  pushName: 'Tics - Cámara de Comercio de Cartago',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola quiero hacer la renovaciòn de la matricula',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: 'hola quiero hacer la renovaciòn de la matricula',
+  name: 'Tics - Cámara de Comercio de Cartago',
+  from: '573212360393',
+  host: '573133917584'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212360393@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB083B597A4902324214D',
+    participant: undefined
+  },
+  messageTimestamp: 1725635340,
+  pushName: 'Tics - Cámara de Comercio de Cartago',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: '1',
+  name: 'Tics - Cámara de Comercio de Cartago',
+  from: '573212360393',
+  host: '573133917584'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212360393@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0858154C6FECD538AA2',
+    participant: undefined
+  },
+  messageTimestamp: 1725635352,
+  pushName: 'Tics - Cámara de Comercio de Cartago',
+  broadcast: false,
+  message: Message {
+    conversation: 'tienes alguna guia o manual que me puedas mandar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: 'tienes alguna guia o manual que me puedas mandar',
+  name: 'Tics - Cámara de Comercio de Cartago',
+  from: '573212360393',
+  host: '573133917584'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212360393@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB096E21CDA807A2DA8D2',
+    participant: undefined
+  },
+  messageTimestamp: 1725635363,
+  pushName: 'Tics - Cámara de Comercio de Cartago',
+  broadcast: false,
+  message: Message {
+    conversation: 'te agradezco mucho',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: 'te agradezco mucho',
+  name: 'Tics - Cámara de Comercio de Cartago',
+  from: '573212360393',
+  host: '573133917584'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212360393@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0506EA9823ACEEAD013',
+    participant: undefined
+  },
+  messageTimestamp: 1725635373,
+  pushName: 'Tics - Cámara de Comercio de Cartago',
+  broadcast: false,
+  message: Message {
+    conversation: 'por ahora no, muchas gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: 'por ahora no, muchas gracias',
+  name: 'Tics - Cámara de Comercio de Cartago',
+  from: '573212360393',
+  host: '573133917584'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573212360393@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB039EDB4D47FD14E66D5',
+    participant: undefined
+  },
+  messageTimestamp: 1725635384,
+  pushName: 'Tics - Cámara de Comercio de Cartago',
+  broadcast: false,
+  message: Message {
+    conversation: 'no, que estès bien hasta luego',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: 'no, que estès bien hasta luego',
+  name: 'Tics - Cámara de Comercio de Cartago',
+  from: '573212360393',
+  host: '573133917584'
+}
