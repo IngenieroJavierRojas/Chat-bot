@@ -21,10 +21,6 @@ function createFlowPrincipal() {
           /*
         Cuando el atributo dataFrom.muted es true, se añade el numero de telefono a la lista negra, para que el bot se apague de esa manera 
         */
-          blacklist.add("573214052795");
-          blacklist.add("573117269131");
-          blacklist.add("573122732235");
-          blacklist.add("573206737312");
         }
         //La siguiente es una validad cuando la persona recien escribe, detectamos si hay un cuerpo de mensaje
 
