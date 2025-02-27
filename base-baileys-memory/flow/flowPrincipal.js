@@ -14,7 +14,7 @@ class flowInitials {
       .addAction(async (ctx, { flowDynamic, blacklist, gotoFlow, state }) => {
         const dataFrom = { muted: true };
         if (dataFrom.muted) {
-          blacklist.add("573214052795");
+          blacklist.add("");
         }
         if (ctx.from) {
           const dataUser = await validateTel(ctx.from);
